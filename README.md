@@ -3,7 +3,7 @@
 A professional 4-page **Power BI Dashboard** built for the Textile & Apparel Industry, integrating **garment factory productivity data** with **global brand sales data**. This project demonstrates end-to-end data engineering and business intelligence skills using **SQL Server** and **Power BI**.
 
 ---
-##  Dashboard Pages
+## Dashboard Pages
 
 | Page | Title | Description |
 |---|---|---|
@@ -128,13 +128,11 @@ Textile-Industry-BI-Dashboard/
 └── sql/
     └── SQLQuery1.sql
 ```
-```
 ## Project Outcome
+
 This dashboard was built as a portfolio project to demonstrate
 real-world Business Intelligence skills applicable to the
 Textile & Apparel Industry. It simulates the kind of data
 analytics work done at leading apparel manufacturers like
 MAS Holdings, covering both factory floor operations and
 global brand sales performance.
-
-```
