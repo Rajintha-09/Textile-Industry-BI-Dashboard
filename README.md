@@ -128,4 +128,13 @@ Textile-Industry-BI-Dashboard/
 └── sql/
     └── SQLQuery1.sql
 ```
+```
+## Project Outcome
+This dashboard was built as a portfolio project to demonstrate
+real-world Business Intelligence skills applicable to the
+Textile & Apparel Industry. It simulates the kind of data
+analytics work done at leading apparel manufacturers like
+MAS Holdings, covering both factory floor operations and
+global brand sales performance.
 
+```
