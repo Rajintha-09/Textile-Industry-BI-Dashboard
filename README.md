@@ -107,7 +107,7 @@ Total Units Sold = SUM(vw_kpi_summary[total_units_sold])
 3. Run `sql/SQLQuery1.sql` to clean data and create views
 4. Open `powerbi/Textile_Industry_Dashboard.pbix` in Power BI Desktop
 5. Update SQL Server connection to your server name
-6. Refresh data and explore the dashboard!
+6. Refresh data and explore the dashboard
 
 ---
 
