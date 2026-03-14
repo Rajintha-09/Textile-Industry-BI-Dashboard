@@ -3,8 +3,6 @@
 A professional 4-page **Power BI Dashboard** built for the Textile & Apparel Industry, integrating **garment factory productivity data** with **global brand sales data**. This project demonstrates end-to-end data engineering and business intelligence skills using **SQL Server** and **Power BI**.
 
 ---
----
-
 ##  Dashboard Pages
 
 | Page | Title | Description |
